@@ -11,7 +11,7 @@ This project has been developed to study the graphical perception of Visually im
 [![MUI][MUI]][MUI-url]
 [![router][router]][router-url]
 [![form][form]][form-url]
-[![zustand][zustand]][zustand-url]
+<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%90%BB%20%20ZUSTAND-blue?style=flat-square&link=https%3A%2F%2Fdocs.pmnd.rs%2Fzustand%2Fgetting-started%2Fintroduction" height="25px">
 
 ## Recommended
 
