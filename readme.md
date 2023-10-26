@@ -1,7 +1,5 @@
 # Studying Graphical Perception of the Visually Impaired
 
----
-
 ## About the project
 
 This project has been developed to study the graphical perception of Visually impaired individuals.
