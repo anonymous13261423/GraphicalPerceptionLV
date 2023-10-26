@@ -1,4 +1,4 @@
-# Studying The Graphical Perception of The Visually Impaired
+# Studying Graphical Perception of the Visually Impaired
 
 ---
 
